@@ -6,6 +6,7 @@ package com.pwq.ThreadPool;
  * @Date：Created in 18:38 2017/8/1
  * @Modified By：
  */
+//第2次提交master
 public class InThread extends Thread{
     @Override
     public void run() {
