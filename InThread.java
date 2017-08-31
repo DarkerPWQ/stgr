@@ -7,8 +7,8 @@ package com.pwq.ThreadPool;
  * @Modified By：
  */
 //第2次提交master
-    //master的第三次提交
-//master的第4次提交
+    //dev1的第一次提交
+    //dev2的第2次提交
 public class InThread extends Thread{
     @Override
     public void run() {
