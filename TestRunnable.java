@@ -6,6 +6,7 @@ package com.pwq.ThreadPool;
  * @Date：Created in 19:34 2017/8/1
  * @Modified By：
  */
+//以后dev1再次修改 3
 public class TestRunnable implements Runnable {
     public void run() {
         System.out.println(Thread.currentThread().getName() + "线程被调用了。");
