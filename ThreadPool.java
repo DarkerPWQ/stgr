@@ -10,6 +10,7 @@ import java.util.concurrent.Executors;
  */
 
 //dev1-1的第一次修改
+//dev1-2的第一次修改
 public class ThreadPool implements Runnable{
     ExecutorService executorService = Executors.newFixedThreadPool(2);
     @Override
